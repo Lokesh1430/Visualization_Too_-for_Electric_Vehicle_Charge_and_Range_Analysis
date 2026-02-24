@@ -98,6 +98,7 @@ MySQL Database → Tableau Desktop → Tableau Public → Flask Web App → End 
 
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png">
+
 # 🎬 Dashboard Preview
 
 <p align="center">
