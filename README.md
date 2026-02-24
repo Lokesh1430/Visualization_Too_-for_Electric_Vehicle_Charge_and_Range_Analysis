@@ -1,175 +1,163 @@
-🚗 Electric Cars Analytics Dashboard
-<p align="center"> Visualization Tool for Electric Vehicle Charge & Range Analysis </p> <p align="center"> <img src="https://img.shields.io/badge/Python-Flask-blue?style=for-the-badge"> <img src="https://img.shields.io/badge/Tableau-Visualization-orange?style=for-the-badge"> <img src="https://img.shields.io/badge/MySQL-Database-blue?style=for-the-badge"> <img src="https://img.shields.io/badge/Status-Completed-success?style=for-the-badge"> </p>
-📑 Table of Contents
+<!-- ====================== NETFLIX GOD OMEGA README ====================== -->
 
-📌 Project Overview
+<p align="center">
+<img src="assets/banner.png" width="100%">
+</p>
 
-🎯 Objectives
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:6A00FF&height=260&section=header&text=Electric%20Cars%20Analytics%20Dashboard&fontSize=46&fontColor=00F0FF&animation=fadeIn"/>
+</p>
 
-🏗️ System Architecture
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=24&duration=2800&color=00F0FF&center=true&vCenter=true&width=800&lines=NETFLIX+GOD+OMEGA+EDITION;Senior+Data+Engineer+Portfolio+Project;Tableau+%7C+MySQL+%7C+Flask"/>
+</p>
 
-🛠️ Technology Stack
+<p align="center">
+<img src="https://img.shields.io/badge/Python-Flask-00F0FF?style=for-the-badge&logo=python">
+<img src="https://img.shields.io/badge/Tableau-Visualization-6A00FF?style=for-the-badge">
+<img src="https://img.shields.io/badge/MySQL-Database-00F0FF?style=for-the-badge&logo=mysql">
+<img src="https://img.shields.io/badge/NETFLIX-GOD%20OMEGA-6A00FF?style=for-the-badge">
+</p>
 
-📊 Dashboard Components
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/neon.png">
 
-📖 Story Insights
+# 🎥 Electric Cars Analytics — Cinematic Overview
 
-🌐 Live Demo
+> 💎 A Netflix-style EV Analytics Platform combining **Tableau + MySQL + Flask**
 
-🖼️ Screenshots
+Transforms EV datasets into interactive dashboards and storytelling experiences.
 
-📂 Project Structure
+---
 
-🚀 Run Locally
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/neon.png">
 
-✨ Features
+# 🧠 Senior Data Engineer Architecture
 
-📈 Future Scope
+```
+[ EV Dataset ]
+        ↓
+[ MySQL Workbench ]
+        ↓
+[ Tableau Desktop ]
+        ↓
+[ Tableau Public ]
+        ↓
+[ Flask Web App ]
+        ↓
+[ End User Experience ]
+```
 
-👨‍💻 Team Members
+<p align="center">
+<img src="assets/architecture.png" width="900">
+</p>
 
-📜 License
+---
 
-📌 Project Overview
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/neon.png">
 
-The Electric Cars Analytics Dashboard is an end-to-end data visualization system that analyzes electric vehicle efficiency, pricing, charging infrastructure, and brand distribution.
+# 📺 NETFLIX DASHBOARD EXPERIENCE
 
-The project combines:
+<iframe 
+src="https://public.tableau.com/views/smartbridge_17703007375670/DashboardofElectriccarsinIndia?:embed=y&:display_count=yes&:showVizHome=no"
+width="100%" height="850">
+</iframe>
 
-✔ MySQL Workbench for database storage
-✔ Tableau Desktop Public for visualization
-✔ Tableau Public for publishing
-✔ Flask Web Application for deployment
+---
 
-It transforms raw EV datasets into interactive dashboards and storytelling analytics.
+# 📖 CINEMATIC STORY EXPERIENCE
 
-🎯 Objectives
+<iframe 
+src="https://public.tableau.com/views/smartbridge_17703007375670/StoryofElectriccarsinIndia?:embed=y&:display_count=yes&:showVizHome=no"
+width="100%" height="850">
+</iframe>
 
-Analyze EV performance and efficiency
+---
 
-Compare EV prices and models in India
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/neon.png">
 
-Visualize charging station distribution
+# 🛠️ Tech Stack — Netflix Style
 
-Create interactive Tableau dashboards
+<p align="center">
+<img src="https://skillicons.dev/icons?i=python,flask,mysql,html,css,github&theme=dark"/>
+</p>
 
-Deploy dashboards through Flask integration
+---
 
-🏗️ System Architecture
-MySQL Database → Tableau Desktop → Tableau Public → Flask Web App → End User
-Architecture Flow
+# 💎 Glass Neon Feature Panels
 
-1️⃣ Import CSV dataset into MySQL Workbench
-2️⃣ Connect Tableau Desktop to MySQL
-3️⃣ Create Sheets → Dashboard → Story
-4️⃣ Publish to Tableau Public
-5️⃣ Embed into Flask Website
+| 🎬 Module | 🚀 Experience |
+|---|---|
+| 📊 Tableau Dashboard | Cinematic Analytics |
+| 📖 Story Navigation | Guided Insights |
+| 🌐 Flask Integration | Live Deployment |
+| 🗄️ MySQL Backend | Data Connectivity |
 
-🛠️ Technology Stack
-Tool	Purpose
-Tableau Desktop Public	Visualization
-Tableau Public	Dashboard Publishing
-MySQL Workbench	Database
-Flask (Python)	Web Integration
-HTML/CSS	Frontend
-📊 Dashboard Components
+---
 
-🌍 Global Summary Card
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/neon.png">
 
-🇮🇳 India Summary Card
+# 🌐 Live Application
 
-🔵 Brands according to BodyStyle (Packed Bubble)
+🚀 https://smartinternz-web-integration.onrender.com/
 
-📊 Top 10 Efficient EV Brands (Bar Chart)
+---
 
-🥧 Brand Filtered by PowerTrain (Pie Chart)
+# 📂 Project Structure
 
-🟩 Different EV Cars in India (Treemap)
-
-⚡ Top Speed Comparison
-
-📖 Story Insights
-
-The Tableau Story provides guided analysis:
-
-🗺️ EV Charging Stations Map of India
-📊 Charging Stations by Region & Type
-💰 Price Comparison of EV Cars
-🚘 Number of Models by Brand
-
-🌐 Live Demo
-
-🔗 Live Flask Website
-https://smartinternz-web-integration.onrender.com/
-
-🔗 Tableau Public Dashboard
-(Add your Tableau Public link here)
-
-🖼️ Screenshots
-📊 Electric Cars Analytics Dashboard
-
-Add Dashboard Screenshot Here
-
-📖 Story of Electric Cars in India
-
-Add Story Screenshot Here
-
-📂 Project Structure
+```
 Electric-Cars-Analytics/
 │
 ├── flask_app/
-│   ├── app.py
-│   ├── templates/
-│   └── static/
-│
 ├── dataset/
-│   └── ev_data.csv
-│
 ├── tableau_files/
-│   └── dashboard.twbx
-│
+├── assets/
+│   ├── banner.png
+│   └── architecture.png
 └── README.md
-🚀 Run Flask App Locally
+```
+
+---
+
+# 🚀 Run Locally
+
+```bash
 git clone <your-repo-link>
 cd Electric-Cars-Analytics
 pip install flask
 python app.py
+```
 
-Open browser:
+Open:
 
+```
 http://127.0.0.1:5000
-✨ Key Features
+```
 
-✔ Interactive Tableau Dashboards
-✔ Story Navigation
-✔ MySQL Data Connectivity
-✔ Flask Web Deployment
-✔ Clean UI Design
-✔ Academic Project Architecture
+---
 
-📈 Future Scope
+# 📈 Future Scope
 
-Real-time EV API integration
+- Real-time EV API Integration  
+- AI Prediction Models  
+- Mobile Responsive UI  
+- Advanced Python Analytics  
 
-AI-based prediction models
+---
 
-Mobile-responsive dashboard
+# 👨‍💻 Team
 
-Advanced Python analytics
+**Team Leader**  
+Naganaboyina Lakshmana Swamy  
 
-👨‍💻 Team Members
+**Team Members**  
+Myla Venkaiah  
+Sangeetham Ganesh  
+Lokesh Pilla  
 
-Team Leader
-Naganaboyina Lakshmana Swamy
+---
 
-Team Members
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6A00FF,100:00F0FF&height=160&section=footer"/>
+</p>
 
-Myla Venkaiah
-
-Sangeetham Ganesh
-
-Lokesh Pilla
-
-📜 License
-
-This project is developed for academic and educational purposes.
+<!-- ====================== END NETFLIX GOD OMEGA ====================== -->
