@@ -93,7 +93,7 @@ MySQL Database → Tableau Desktop → Tableau Public → Flask Web App → End 
 
 ---
 
-# 🎬 Dashboard Preview (Netflix Style Grid)
+# 🎬 Dashboard Preview
 
 <p align="center">
 <img src="ADD_DASHBOARD_IMAGE_LINK_HERE" width="45%">
